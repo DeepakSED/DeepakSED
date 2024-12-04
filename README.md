@@ -10,11 +10,11 @@ Welcome to my **Software Development Engineer in Test (SDET)** portfolio reposit
 
 ## 📋 Table of Contents  
 - [About Me](#about-me)  
-- [Skills and Expertise](#skills-and-expertise)  
+- [Skills and Expertise](#Postman.SQL,Data structures,Selenium Testing,JUnit,Cypress,CSS,HTML,java,JavaScript)  
 - [Projects](#projects)  
 - [Tools and Frameworks](#tools-and-frameworks)  
 - [How to Use](#how-to-use)  
-- [Contact](#contact)  
+- [Contact](#Email id:-deepakkumarcegin@gmail.com. Phone :- 9162467675)  
 
 ---
 
@@ -26,49 +26,45 @@ I am a passionate SDET dedicated to improving software quality through innovativ
 
 ## 🛠️ Skills and Expertise  
 
-- **Programming Languages**: Python, Java, JavaScript, C#  
-- **Automation Frameworks**: Selenium, Appium, Cypress, Playwright  
+- **Programming Languages**: Java, JavaScript, HTML ,CSS   
+- **Automation Frameworks**: Selenium , Cypress.  
 - **Testing Types**: Functional Testing, API Testing, Performance Testing, Security Testing, Unit Testing  
-- **CI/CD Tools**: Jenkins, GitHub Actions, CircleCI, Azure DevOps  
+- **CI/CD Tools**: Jenkins, GitHub Actions, CircleCI,  
 - **Version Control**: Git, GitHub, Bitbucket  
-- **Other Tools**: Postman, JMeter, TestNG, PyTest, Allure Reports  
+- **Other Tools**: Postman, JMeter.
 - **Cloud Platforms**: AWS, Azure, Google Cloud  
 
 ---
 
 ## 🌟 Projects  
 
-### 1. **Automated Web Testing Framework**  
-**Description**: Built a robust Selenium-based framework with modular and reusable components.  
-- **Features**: Data-driven testing, logging, reporting with Allure, and parallel test execution.  
-- **Tech Stack**: Java, Selenium, TestNG, Maven  
+### 1. ** Open-to-cart web Application **  
+**Description**: Performed manual testing of Open Cart web application to ensure functionality, usability, and reliability across various modules.  
+- **Features**: Conducted manual testing for the Open-to-Cart web application, focusing on validating core features such as product search, cart functionality, payment processing, and user interface responsiveness to ensure a seamless user experience..  
+- **Tech Stack**: Documents , GoogleSheet. 
+**Repository**: [github.com/DeepakSED/open-to-cart-web-Application-)]  
 
-**Repository**: [Link to project (if applicable)]  
+### 2. **Shopify web Application **  
+**Description**:Implemented automation testing for Shopify applications using Cypress, focusing on enhancing test efficiency and ensuring product quality. Developed and executed robust test scripts for workflows, integrated API validations, and streamlined mobile compatibility testing. Strengthened defect identification and resolution processes, ensuring seamless user experiences..  
+- **Features**:Automating testing of Shopify applications ensures seamless functionality, user experience, and integration across key features..  
+- **Tech Stack**: Cypress, JavaScript, HTML , CSS , Jira etc.   
 
-### 2. **API Testing with Postman and Newman**  
-**Description**: Developed a comprehensive Postman collection for REST API testing and integrated it with Newman for CI/CD pipelines.  
-- **Features**: Environment-based testing, dynamic variables, and automated test runs in Jenkins.  
-- **Tech Stack**: Postman, Newman, Jenkins  
-
-**Repository**: [Link to project (if applicable)]  
-
-### 3. **Performance Testing Framework**  
-**Description**: Created a scalable JMeter framework for performance and load testing of web services.  
-- **Features**: Custom plugins, monitoring dashboards, and comprehensive analysis reports.  
-- **Tech Stack**: JMeter, Grafana, InfluxDB  
-
-**Repository**: [Link to project (if applicable)]  
-
+**Repository**: [github.com/DeepakSED/SpotifyTesting)]  
 ---
 
 ## 🛠️ Tools and Frameworks  
 
-This repository contains examples of tools and frameworks I have used to design, develop, and execute test automation strategies. Each folder provides documentation and code samples for:  
+This repository contains examples of tools and frameworks I have used to design, develop, and execute test automation strategies. Each folder provides documentation and code samples for: - Unit Test Manual Tesing.  
+- Intergration Test Manual Tesing.
+- Usablity Test Manual Tesing.
+- performance Test Manual Tesing.
+- Security Test Manual Tesing.
+- All are The doucments are Gentered (Google sheet and Exacle Documents) Ex- Test Plan, Test Sceniro, Test report, Bug Repoerted. 
 - UI Test Automation  
 - API Test Automation  
 - Performance Testing  
 - Continuous Integration  
-
+- Selenium Test.
 ---
 
 ## 📫 Contact  
