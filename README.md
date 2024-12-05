@@ -11,9 +11,10 @@ Welcome to my **Software Development Engineer in Test (SDET)** portfolio reposit
 ## 📋 Table of Contents  
 - [About Me](#about-me)  
 - [Skills and Expertise](#Postman.SQL,Data structures,Selenium Testing,JUnit,Cypress,CSS,HTML,java,JavaScript)  
-- [Projects](#projects)  
-- [Tools and Frameworks](#tools-and-frameworks)  
-- [How to Use](#how-to-use)  
+- [Projects](#projects
+- 1 Open-to cart w Application
+- 2 Shoptify  Application)   
+- [Tools and Frameworks](#tools-and-frameworks Selenium , Cypress Postman, JMeter)    
 - [Contact](#Email id:-deepakkumarcegin@gmail.com. Phone :- 9162467675)  
 
 ---
